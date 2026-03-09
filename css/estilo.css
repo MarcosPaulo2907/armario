@@ -1,10 +1,12 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;    
+    font-family: Arial, Helvetica, sans-serif;        
 }
 header h1{
      text-align: center;
      height: 80px; 
-    background-color: #2eda45;         
+    background-color: #2eda45; 
+    color: blue;   
+    font-size: 6vh;     
     
 }
 header img{
@@ -12,9 +14,30 @@ header img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 10vh;
 }
 
 #Danikikadas{
      text-align: center;      
     
+}
+#Danikikadas h1{
+     font-size: 10vh;
+     color: red;
+}
+#Danikikadas p{
+    font-size: 2vh;
+    color: black;
+}
+
+#caioba{
+     text-align: center;  
+}
+#caioba h1{
+     font-size: 10vh;
+     
+}
+#caioba p{
+    font-size: 2vh;
+    color: black;
 }
